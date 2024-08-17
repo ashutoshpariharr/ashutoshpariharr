@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Parihar</h1>
 <h3 align="center">A passionate MERN Stack, Frontend, backend developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
