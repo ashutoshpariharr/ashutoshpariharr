@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 🤝 I’m looking for help with **Frontend development**
+- 🤝 I’m looking for help with **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://ashutosh-portfolio-mern.web.app/](https://ashutosh-portfolio-mern.web.app/)
 
